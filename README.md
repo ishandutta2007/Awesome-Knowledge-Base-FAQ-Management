@@ -1,26 +1,41 @@
-# Awesome Knowledge Base & FAQ Management
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management/)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management?style=social)](https://github.com/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="./assets/banner.svg" alt="Awesome Knowledge Base &amp; FAQ Management Banner" width="100%" />
 
-> A curated list of leading **Knowledge Base (KB) software**, **FAQ management systems**, **customer self-service portals**, and **internal team wiki engines**. Discover production-ready SaaS platforms and top-starred open-source self-hosted solutions to streamline documentation, deflect support tickets, and scale institutional knowledge.
+# 🧠 Awesome Knowledge Base &amp; FAQ Management 📚
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF5Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Knowledge-Base-FAQ-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+**A curated index of top-tier Knowledge Base (KB) platforms, FAQ management suites, customer self-service portals, and open-source wiki engines.**
+
+*Discover enterprise-ready SaaS platforms and high-performance open-source self-hosted solutions to streamline documentation, deflect repetitive support tickets, and scale institutional knowledge.*
+
+</div>
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Feature Comparison & Architectural Archetypes](#feature-comparison--architectural-archetypes)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Feature Comparison & Architectural Archetypes](#️-feature-comparison--architectural-archetypes)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global Knowledge Management Software (KMS) market is estimated at **$13.7B to $23.2B in 2025** and projected to expand to **$16.2B–$26.4B by 2026**, registering a compound annual growth rate (CAGR) between 13.5% and 18.3% driven by generative AI search, automated answer verification, and AI deflection agents.
 
@@ -28,7 +43,7 @@ The sector exhibits **moderate concentration with a bifurcated, highly fragmente
 
 ---
 
-## SaaS & Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 *Commercial knowledge management platforms sorted descending by company size (market valuation / annual revenue).*
 
@@ -47,7 +62,7 @@ The sector exhibits **moderate concentration with a bifurcated, highly fragmente
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 *Self-hosted knowledge base platforms, open wikis, customer support FAQ portals, and docs-as-code engines. Sorted descending by GitHub star count.*
 
@@ -74,7 +89,7 @@ The sector exhibits **moderate concentration with a bifurcated, highly fragmente
 
 ---
 
-## Feature Comparison & Architectural Archetypes
+## 🏗️ Feature Comparison & Architectural Archetypes
 
 When selecting a Knowledge Base & FAQ management stack, choose an architecture tailored to your audience and operational workflow:
 
@@ -92,21 +107,40 @@ flowchart TD
     D -->|Docs-as-Code Static Site| I[Docusaurus / VitePress / mdBook]
 ```
 
-### 1. Customer-Facing Self-Service Portals
+### 1. 🌐 Customer-Facing Self-Service Portals
 * **Key Needs**: Fast indexing, SEO-optimized public URLs, multilingual localization, customer feedback loops (helpful/unhelpful votes), and ticket deflection widgets.
 * **Top Choices**: [Document360](https://document360.com/), [Helpjuice](https://helpjuice.com/), [Chatwoot](https://github.com/chatwoot/chatwoot), [BookStack](https://github.com/BookStackApp/BookStack), [FreeScout](https://github.com/freescout-helpdesk/freescout).
 
-### 2. Internal Engineering Runbooks & Team Wikis
+### 2. 👥 Internal Engineering Runbooks & Team Wikis
 * **Key Needs**: Real-time collaborative editing, enterprise single sign-on (SAML/SSO), Slack/Teams integrations, granular permissions, and verification cycles.
 * **Top Choices**: [Confluence](https://www.atlassian.com/software/confluence), [Notion](https://www.notion.so/), [Outline](https://github.com/outline/outline), [Docmost](https://github.com/docmost/docmost), [Slab](https://slab.com/).
 
-### 3. Docs-as-Code & Developer Knowledge Hubs
+### 3. 💻 Docs-as-Code & Developer Knowledge Hubs
 * **Key Needs**: Git version control, pull-request review workflows, Markdown/MDX syntax, CI/CD automated deployment, and zero database overhead.
 * **Top Choices**: [Docusaurus](https://github.com/facebook/docusaurus), [VitePress](https://github.com/vuejs/vitepress), [mdBook](https://github.com/rust-lang/mdBook), [GitBook](https://www.gitbook.com/).
 
 ---
 
-## How to Contribute
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Knowledge-Base-FAQ-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Knowledge-Base-FAQ-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing the **Awesome Knowledge Base & FAQ Management** resource list! 🙌
+
+If you find this repository valuable, please consider supporting the project:
+- ⭐ **Star this repository** on GitHub to help boost discovery!
+- 🍴 **Fork and share** with your teammates, engineering peers, and support leaders.
+- ☕ **Buy a coffee or sponsor ongoing maintenance**: [Sponsor Dashboard on GitHub](https://github.com/sponsors/ishandutta2007)
+
+Your support keeps this curated ecosystem up-to-date and thriving!
+
+---
+
+## 🤝 How to Contribute
 
 Contributions are welcome! Help keep this ecosystem guide updated and comprehensive:
 
@@ -117,7 +151,7 @@ Contributions are welcome! Help keep this ecosystem guide updated and comprehens
 
 ---
 
-## Disclaimer & License
+## 📜 Disclaimer & License
 
 - **Disclaimer**: This list is community-curated for informational purposes. Product pricing, features, and company valuations fluctuate; consult vendor websites for current commercial terms.
 - **License**: Released under the [MIT License](LICENSE).
