@@ -64,7 +64,7 @@ The sector exhibits **moderate concentration with a bifurcated, highly fragmente
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted knowledge base platforms, open wikis, customer support FAQ portals, and docs-as-code engines. Sorted descending by GitHub Stars_Count.*
+*Self-hosted knowledge base platforms, open wikis, customer support FAQ portals, and docs-as-code engines. Sorted descending by GitHub_Stars_Count.*
 
 | Project | GitHub_Stars | Tech Stack | License | Description & Use Case |
 |:---|:---:|:---:|:---:|:---|
